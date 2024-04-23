@@ -6,9 +6,9 @@ arXiv: https://arxiv.org/abs/2310.10858
 
 ## About this repository:
 
-This directory contains all supplemental materials associated with the ACM CSCW'24 submission titled [**Designing Shared Information Displays for Agents of Varying Strategic Sophistication**](https://arxiv.org/abs/2310.10858). Due to file size constraints, certain input and output files, such as the Chicago Taxi Trips dataset and the fitted Bayesian models, are not included within this repository. Instead, directories have been created to store the modeling object, should viewers choose to reproduce the analysis using the provided scripts. The structure and contents of the repository are detailed in the table below.
+This directory contains all supplemental materials associated with the ACM CSCW'24 submission titled [**Designing Shared Information Displays for Agents of Varying Strategic Sophistication**](https://arxiv.org/abs/2310.10858). Due to file size constraints, certain input and output files, such as the [**Chicago Taxi Trips dataset**](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew) and the fitted Bayesian models, are not included within this repository. Instead, directories have been created to store the modeling objects, should viewers choose to reproduce the analysis using the provided scripts. The structure and contents of the repository are detailed in the table below.
 
-**Notice**: Please ensure your system have at least 120 GB of disk space, and several processing scripts (such as generating taxi driver priors) can take more than 12 hours to run on a laptop with 2.3 GHz 8-core Intel Core i9 and 16 GB memory configuration.
+**Notice**: Please ensure your system has at least 120 GB of disk space. Several processing scripts, such as those used to generate taxi drivers' priors, can take more than 12 hours to run. This timeing is based on test runs on a laptop equipped with a 2.3 GHz 8-core Intel Core i9 and 16 GB of memory.
 
 ## Content:
 

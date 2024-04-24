@@ -3,3 +3,6 @@
 
 # R history files
 .Rhistory
+
+# Ignore the taxi trips data
+scripts/1-taxiTrips/data/taxiTrips/*.csv

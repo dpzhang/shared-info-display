@@ -4,5 +4,3 @@
 # R history files
 .Rhistory
 
-# Ignore taxi trips data
-scripts/1-taxiTrips/data/taxiTrips/*

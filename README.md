@@ -2,7 +2,11 @@
 
 Authors: Dongping Zhang, Jason Hartline, Jessica Hullman
 
+Full Paper: https://doi.org/10.1145/3637319
+
 arXiv: https://arxiv.org/abs/2310.10858
+
+Blog Post: https://link.growkudos.com/1mi020o13i8
 
 ## About this repository:
 
